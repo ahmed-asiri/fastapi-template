@@ -1,8 +1,0 @@
- spec:
-  name: fastapi-apptst
-  services:
-    - name: fastapi-apptst
-      git:
-        branch: main
-        repo_clone_url: https://github.com/kabuchanga/fastapi-apptst.git
-    
